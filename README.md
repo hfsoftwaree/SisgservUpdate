@@ -69,7 +69,7 @@ Tela principal:<br>
 ### ⚙️ Menu Ferramentas
 - Backup / Restore do banco de dados
 - Configuração do banco de dados
-- Manutenção de usuário
+- Controle de usuário
 - Logoff de usuário
 - Limpeza do banco de dados
 - Skin
