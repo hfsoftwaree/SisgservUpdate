@@ -1,5 +1,6 @@
-!! SISTEMA ATIVO !!<br><br>
 ## SISGSERV
+Status: Ativo desde 01/2024<br>
+Sistema passando por refatoração<br><br><br>
 
 O **SISGSERV** é um sistema **livre**, **multiusuário**, com acesso **LAN/WAN**, voltado para o controle de **doações**, incluindo **contas a pagar e a receber** integradas, além da geração de **demonstrativos de faturamento**.
 
